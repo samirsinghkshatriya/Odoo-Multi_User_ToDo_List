@@ -13,11 +13,11 @@
 <h2>Features:</h2>
 -Login Page<br>      
 -Home Page<br>     
-Project (CRUD Features)<br>
-Task List Page<br>
-Progress Form<br>
-Report Generation<br>
-User (CRUD Features)<br>
+-Project (CRUD Features)<br>
+-Task List Page<br>
+-Progress Form<br>
+-Report Generation<br>
+-User (CRUD Features)<br>
 etc.
 <p>The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.</P>
 
